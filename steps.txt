@@ -1,0 +1,3 @@
+from pygame import _sdl2, mixer
+
+pactl load-module module-null-sink
